@@ -12,3 +12,4 @@ dependencies:
   - Pillow==5.0.0
   - numpy==1.14.1
   - visdom==0.1.7
+# torch/torchvision versions must match the CUDA driver on the training host
