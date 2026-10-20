@@ -1,3 +1,5 @@
+"""Train a reversible GAN; options come from options/train_options.py."""
+
 import time
 from options.train_options import TrainOptions
 from data import CreateDataLoader

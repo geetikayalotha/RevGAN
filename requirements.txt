@@ -1,3 +1,4 @@
+# torch/torchvision must match the CUDA driver on the host
 torch>=0.4.0
 torchvision>=0.2.1
 dominate>=2.3.1

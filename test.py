@@ -1,3 +1,5 @@
+"""Evaluate a checkpoint; options come from options/test_options.py."""
+
 import os
 from options.test_options import TestOptions
 from data import CreateDataLoader
